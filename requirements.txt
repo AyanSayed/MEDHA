@@ -1,0 +1,6 @@
+flask
+RPi.GPIO
+gpiozero
+opencv-python
+numpy
+pandas
